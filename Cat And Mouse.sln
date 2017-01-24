@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cat And Mouse.Plugins", "Cat And Mouse.Plugins.csproj", "{348F9413-A93A-431A-F42A-4BA1E06F1187}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cat And Mouse", "Cat And Mouse.csproj", "{4C64BD18-00FD-AA50-C612-2EE0851B5AE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cat And Mouse.Editor", "Cat And Mouse.Editor.csproj", "{210C61FA-A62C-5299-D468-D7FC844B4784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{348F9413-A93A-431A-F42A-4BA1E06F1187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348F9413-A93A-431A-F42A-4BA1E06F1187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348F9413-A93A-431A-F42A-4BA1E06F1187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348F9413-A93A-431A-F42A-4BA1E06F1187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C64BD18-00FD-AA50-C612-2EE0851B5AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C64BD18-00FD-AA50-C612-2EE0851B5AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C64BD18-00FD-AA50-C612-2EE0851B5AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C64BD18-00FD-AA50-C612-2EE0851B5AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{210C61FA-A62C-5299-D468-D7FC844B4784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{210C61FA-A62C-5299-D468-D7FC844B4784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{210C61FA-A62C-5299-D468-D7FC844B4784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{210C61FA-A62C-5299-D468-D7FC844B4784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
